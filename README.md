@@ -7,6 +7,6 @@ ACE3 compatibility for the Arma 3 weapon mod "JCA - UMP45" by Grave: [Steam Work
 - .45 ACP +P 230gr Winchester Law Enforcement 2025 datas: 990fps (302m/s) barrel length 5", 332m/s 200mm.
 - Add "ACE_railHeightAboveBore" and "ACE_ScopeHeightAboveRail" values from ACE3 "checkScopes.sqf".
 
-Download link: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3384139540)
+Download link: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3401981936)
 
 License: [Arma Public License Share Alike (APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike)
